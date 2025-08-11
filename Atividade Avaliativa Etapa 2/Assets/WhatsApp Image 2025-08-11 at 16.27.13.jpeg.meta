@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fab7ab1bc41777145aedb7303c9f82e6
+guid: b387b51f4f7279e438b71dc21d08f2e9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2899354605513281206
-    second: UI_TravelBook_ButtonValue01b_0
+      213: -432169637077002718
+    second: WhatsApp Image 2025-08-11 at 16.27.13_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_TravelBook_ButtonValue01b_0
+      name: WhatsApp Image 2025-08-11 at 16.27.13_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 8
-        height: 6
+        width: 1280
+        height: 1280
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a41fc74095c63c7d0800000000000000
-      internalID: -2899354605513281206
+      spriteID: 226d05b3100a00af0800000000000000
+      internalID: -432169637077002718
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      UI_TravelBook_ButtonValue01b_0: -2899354605513281206
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

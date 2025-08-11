@@ -1224,7 +1224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdd3956ea9a790f47bb86bfdcdbc96e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidas: 3
+  vidas: 10
   energia: 100
   velocidade: 5
 --- !u!1 &2033392214

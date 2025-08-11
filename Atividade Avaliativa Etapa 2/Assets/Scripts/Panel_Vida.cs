@@ -20,7 +20,7 @@ public class Panel_Vida : MonoBehaviour
 
     void Update()
     {
-        sliderVidas.maxValue = personagem.getVidas();
-        sliderEnergia.maxValue = personagem.getEnergia();
+        sliderVidas.value = personagem.getVidas();
+        sliderEnergia.value = personagem.getEnergia();
     }
 }
