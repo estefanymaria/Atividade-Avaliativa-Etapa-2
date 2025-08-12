@@ -30,12 +30,12 @@ public class ControleDeÁudio : MonoBehaviour
 
         if (musica == true)
         {
-            textoMusica.text = "Ligado";
+            textoMusica.text = "LIGADO";
             textoMusica.color = Color.green;
         }
         else
         {
-            textoMusica.text = "Desligado";
+            textoMusica.text = "DESLIGADO";
             textoMusica.color = Color.red;
         }
     }
