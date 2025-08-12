@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 61a0ca1ef5c80a940b0582112863ff71
+guid: 99bffdcfb966659489ca133bec227c91
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7312381034854393574
-    second: UI_TravelBook_Marker01a_0
+      213: 1751151936401129314
+    second: WhatsApp Image 2025-08-12 at 14.41.59_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_TravelBook_Marker01a_0
+      name: WhatsApp Image 2025-08-12 at 14.41.59_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 20
-        height: 14
+        width: 1080
+        height: 1080
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 4, w: 4}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e6acccfecbca7560800000000000000
-      internalID: 7312381034854393574
+      spriteID: 26f3dec78675d4810800000000000000
+      internalID: 1751151936401129314
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: abdb08b900def6f499e01865e78eb279
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      UI_TravelBook_Marker01a_0: 7312381034854393574
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
